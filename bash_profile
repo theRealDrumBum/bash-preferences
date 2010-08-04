@@ -1,6 +1,7 @@
 export PATH=$PATH:/usr/local/bin:/usr/local/mysql/bin
 export TERM='xterm-color'
 export CLICOLOR='true'
+export LSCOLORS="gxfxcxdxbxegedabagacad"
 CYAN="0;36m"
 DEFAULT="0m"
 
